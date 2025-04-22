@@ -3,37 +3,43 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    private bool isMoving = false;
-    private Vector2 input;
-    private Vector3 targetPos;
+    private Vector2 moveInput;
+    private Vector2 lastMoveDir = Vector2.down;
+
+    private Rigidbody2D rb;
+    private Animator animator;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+    }
 
     void Update()
     {
-        if (!isMoving)
+        moveInput.x = Input.GetAxisRaw("Horizontal");
+        moveInput.y = Input.GetAxisRaw("Vertical");
+    
+        if (moveInput != Vector2.zero)
         {
-            input.x = Input.GetAxisRaw("Horizontal");
-            input.y = Input.GetAxisRaw("Vertical");
-
-            // Only move one direction at a time
-            if (input.x != 0) input.y = 0;
-
-            if (input != Vector2.zero)
-            {
-                var targetGridPos = transform.position + new Vector3(input.x, input.y, 0);
-                StartCoroutine(MoveTo(targetGridPos));
-            }
+            lastMoveDir = moveInput;
         }
+    
+        // ✅ Always face the last horizontal direction (even when idle)
+        if (lastMoveDir.x != 0)
+        {
+            Vector3 scale = transform.localScale;
+            scale.x = lastMoveDir.x > 0 ? -1 : 1;
+            transform.localScale = scale;
+        }
+    
+        animator.SetFloat("MoveX", lastMoveDir.x);
+        animator.SetFloat("MoveY", lastMoveDir.y);
+        animator.SetBool("IsMoving", moveInput != Vector2.zero);
     }
 
-    System.Collections.IEnumerator MoveTo(Vector3 target)
+    void FixedUpdate()
     {
-        isMoving = true;
-        while ((target - transform.position).sqrMagnitude > Mathf.Epsilon)
-        {
-            transform.position = Vector3.MoveTowards(transform.position, target, moveSpeed * Time.deltaTime);
-            yield return null;
-        }
-        transform.position = target;
-        isMoving = false;
+        rb.MovePosition(rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime);
     }
 }

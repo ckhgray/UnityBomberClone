@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 95672116e4af1674e835d7732579394b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7387604017024019416
+    second: tung_spriteSheet_0
+  - first:
+      213: 4657746881155925254
+    second: tung_spriteSheet_1
+  - first:
+      213: -1854682169634289920
+    second: tung_spriteSheet_2
+  - first:
+      213: 8777953323499841295
+    second: tung_spriteSheet_3
+  - first:
+      213: 6563318146977506630
+    second: tung_spriteSheet_4
+  - first:
+      213: 2471771902669987327
+    second: tung_spriteSheet_5
+  - first:
+      213: -3037245995797638850
+    second: tung_spriteSheet_6
+  - first:
+      213: 8097176584161085331
+    second: tung_spriteSheet_7
+  - first:
+      213: -5924665793917153557
+    second: tung_spriteSheet_8
+  - first:
+      213: 4559159888277368783
+    second: tung_spriteSheet_9
+  - first:
+      213: -36422394622727731
+    second: tung_spriteSheet_10
+  - first:
+      213: 2923012233762678150
+    second: tung_spriteSheet_11
+  - first:
+      213: 8015785020694567545
+    second: tung_spriteSheet_12
+  - first:
+      213: -6735254765742040141
+    second: tung_spriteSheet_13
+  - first:
+      213: -1606885183478203953
+    second: tung_spriteSheet_14
+  - first:
+      213: -8255307532749166332
+    second: tung_spriteSheet_15
+  - first:
+      213: -2424183803574638815
+    second: tung_spriteSheet_16
+  - first:
+      213: 8933484239537952092
+    second: tung_spriteSheet_17
+  - first:
+      213: 8772596849653784864
+    second: tung_spriteSheet_18
+  - first:
+      213: -4436877050829132800
+    second: tung_spriteSheet_19
+  - first:
+      213: 4724271619094945774
+    second: tung_spriteSheet_20
+  - first:
+      213: -1002233772268262385
+    second: tung_spriteSheet_21
+  - first:
+      213: 3371373925927706103
+    second: tung_spriteSheet_22
+  - first:
+      213: 7994318355870249820
+    second: tung_spriteSheet_23
+  - first:
+      213: -9167716148122370662
+    second: tung_spriteSheet_24
+  - first:
+      213: 7194857710232482014
+    second: tung_spriteSheet_25
+  - first:
+      213: -6719122107743529125
+    second: tung_spriteSheet_26
+  - first:
+      213: -8536581532239922515
+    second: tung_spriteSheet_27
+  - first:
+      213: -1066940701887723180
+    second: tung_spriteSheet_28
+  - first:
+      213: 8125176977212932184
+    second: tung_spriteSheet_29
+  - first:
+      213: 6316904070268227046
+    second: tung_spriteSheet_30
+  - first:
+      213: -1424698797795370382
+    second: tung_spriteSheet_31
+  - first:
+      213: 8737382982260039626
+    second: tung_spriteSheet_32
+  - first:
+      213: -7919070433491449243
+    second: tung_spriteSheet_33
+  - first:
+      213: -3083676076916583644
+    second: tung_spriteSheet_34
+  - first:
+      213: 7496414694513146261
+    second: tung_spriteSheet_35
+  - first:
+      213: -269252794079966787
+    second: tung_spriteSheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tung_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 670
+        width: 213
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db27f756ba068660800000000000000
+      internalID: 7387604017024019416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 671
+        width: 178
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6058bf05c14a3a040800000000000000
+      internalID: 4657746881155925254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 671
+        width: 216
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00782bba468d246e0800000000000000
+      internalID: -1854682169634289920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 676
+        width: 223
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ea264a0e81d970800000000000000
+      internalID: 8777953323499841295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 586
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645287aa417951b50800000000000000
+      internalID: 6563318146977506630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 583
+        width: 111
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd9f60137f7d4220800000000000000
+      internalID: 2471771902669987327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31110ddbd889d5d0800000000000000
+      internalID: -3037245995797638850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 586
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397488ed333fe5070800000000000000
+      internalID: 8097176584161085331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 586
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee09a4c9db57cda0800000000000000
+      internalID: -5924665793917153557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 379
+        width: 205
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6bfe43c3654f30800000000000000
+      internalID: 4559159888277368783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 379
+        width: 161
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a4aa660a9e7ff0800000000000000
+      internalID: -36422394622727731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 379
+        width: 157
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685ab8bc320a09820800000000000000
+      internalID: 2923012233762678150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 376
+        width: 178
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9562c10acd3f60800000000000000
+      internalID: 8015785020694567545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 314
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb5038b9719782a0800000000000000
+      internalID: -6735254765742040141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 314
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc971f3707233b9e0800000000000000
+      internalID: -1606885183478203953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 314
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40921e699814f6d80800000000000000
+      internalID: -8255307532749166332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 314
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127adadaca19b5ed0800000000000000
+      internalID: -2424183803574638815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 314
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d530959c1afb70800000000000000
+      internalID: 8933484239537952092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 315
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02123550b568eb970800000000000000
+      internalID: 8772596849653784864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 314
+        width: 123
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2f3174db0d62c0800000000000000
+      internalID: -4436877050829132800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 318
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef1d9ed10cff8140800000000000000
+      internalID: 4724271619094945774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 40
+        width: 192
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cec06b1b95712f0800000000000000
+      internalID: -1002233772268262385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 66
+        width: 156
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd5feb29b689ce20800000000000000
+      internalID: 3371373925927706103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 66
+        width: 154
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f70f503681fe60800000000000000
+      internalID: 7994318355870249820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 66
+        width: 158
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dbd856cbab5c080800000000000000
+      internalID: -9167716148122370662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 168
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed033eba7f449d360800000000000000
+      internalID: 7194857710232482014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16
+        width: 137
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57197dda02e0c2a0800000000000000
+      internalID: -6719122107743529125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daafdae3358f78980800000000000000
+      internalID: -8536581532239922515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598393a5177131f0800000000000000
+      internalID: -1066940701887723180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85085f7696d62c070800000000000000
+      internalID: 8125176977212932184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed8e8498c62aa750800000000000000
+      internalID: 6316904070268227046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1b75edf37a3ce0800000000000000
+      internalID: -1424698797795370382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf172c978b614970800000000000000
+      internalID: 8737382982260039626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 44
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a8174d56fc91290800000000000000
+      internalID: -7919070433491449243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423540132f49435d0800000000000000
+      internalID: -3083676076916583644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599797b627d980860800000000000000
+      internalID: 7496414694513146261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tung_spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90516a20c634cf0800000000000000
+      internalID: -269252794079966787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tung_spriteSheet_0: 7387604017024019416
+      tung_spriteSheet_1: 4657746881155925254
+      tung_spriteSheet_10: -36422394622727731
+      tung_spriteSheet_11: 2923012233762678150
+      tung_spriteSheet_12: 8015785020694567545
+      tung_spriteSheet_13: -6735254765742040141
+      tung_spriteSheet_14: -1606885183478203953
+      tung_spriteSheet_15: -8255307532749166332
+      tung_spriteSheet_16: -2424183803574638815
+      tung_spriteSheet_17: 8933484239537952092
+      tung_spriteSheet_18: 8772596849653784864
+      tung_spriteSheet_19: -4436877050829132800
+      tung_spriteSheet_2: -1854682169634289920
+      tung_spriteSheet_20: 4724271619094945774
+      tung_spriteSheet_21: -1002233772268262385
+      tung_spriteSheet_22: 3371373925927706103
+      tung_spriteSheet_23: 7994318355870249820
+      tung_spriteSheet_24: -9167716148122370662
+      tung_spriteSheet_25: 7194857710232482014
+      tung_spriteSheet_26: -6719122107743529125
+      tung_spriteSheet_27: -8536581532239922515
+      tung_spriteSheet_28: -1066940701887723180
+      tung_spriteSheet_29: 8125176977212932184
+      tung_spriteSheet_3: 8777953323499841295
+      tung_spriteSheet_30: 6316904070268227046
+      tung_spriteSheet_31: -1424698797795370382
+      tung_spriteSheet_32: 8737382982260039626
+      tung_spriteSheet_33: -7919070433491449243
+      tung_spriteSheet_34: -3083676076916583644
+      tung_spriteSheet_35: 7496414694513146261
+      tung_spriteSheet_36: -269252794079966787
+      tung_spriteSheet_4: 6563318146977506630
+      tung_spriteSheet_5: 2471771902669987327
+      tung_spriteSheet_6: -3037245995797638850
+      tung_spriteSheet_7: 8097176584161085331
+      tung_spriteSheet_8: -5924665793917153557
+      tung_spriteSheet_9: 4559159888277368783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
